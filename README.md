@@ -1,5 +1,10 @@
 # fetch-data-from-random-jokes-API
 
-![CHEESE!](images/random.jpeg)
+## This is just an example to fetch data from random joke API with useState and useEffect hooks.🥰
+### `JavaScript`
+### `ReactJs`
+### `styled-components`
+### `API`
 
-s
+
+![CHEESE!](images/random.jpeg)
